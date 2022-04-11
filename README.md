@@ -1,6 +1,5 @@
-# Geographic Infromation Analysis (Python for Geospatial Secience)
-# Geography (GEOG) 3404: Geographic Information Analysis Spring 2022
-# By Yaqian He, Department  of Geography, University of Central Arkansas
+# Geography (GEOG) 3404 Geographic Infromation Analysis (Python )
+By Yaqian He, Department  of Geography, University of Central Arkansas
 # Course Contributions
 Several people helped me to develop this course by providing advice, data, or materials. Specifically, I would like to acknowledge the contributions of Dr. Charles Severance from the University of Michigan, Earth Lab (https://www.earthdatascience.org/), and other open source materials (e.g., Xarray).
 
